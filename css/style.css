@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+   background-color: yellowgreen;
+   height: 100px;
+   text-align: center;
+}
+.nav{
+background-color: teal;
+width: 30%;
+height: 400px;
+float: left;
+text-align: center;
+}
+.article{
+    background-color:hotpink;
+    width: 50%;
+    height: 400px;
+    float: left;
+    text-align: center;
+}
+.ads{
+    background-color:red;
+    width: 20%;
+    height: 400px;
+    float:right;
+    text-align: center;
+
+}
+.footer{
+    height: 100px;
+    background-color:green;
+    text-align: center;
+}
+.content{
+    overflow: hidden;
+}
+
+
+
